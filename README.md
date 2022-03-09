@@ -1,2 +1,5 @@
-- 👋 Hi, I’m @CyberCarboon
-- keep breathing and breathing🗿
+- 👋 Hi, I’m CyberCarboon
+-⚡Masih Belajar
+-⚡Tidak ada yang tidak mungkin di dunia ini
+-⚡tetaplah berusaha dan pantang menyerah
+-⚡ tetaplah bernafas dan bernafas 🗿
