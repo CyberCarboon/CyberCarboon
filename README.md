@@ -4,6 +4,6 @@
 -⚡tetaplah berusaha dan pantang menyerah
 -⚡ tetaplah bernafas dan bernafas 🗿
 
-## ngoding 😸
+## ngontol 😸
  <img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/coding.jpg" width="440" title="Menu" alt="Menu">
 </p>
