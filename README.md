@@ -10,7 +10,7 @@
 
 If you can't use this script or there is a bug in the script, please contact me
 
-#**Contact Me**
+## **Contact Me**
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon)
 
