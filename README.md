@@ -7,7 +7,7 @@
 </p>
 <p align="center">
  
-- 👋 Hi, My Name ia Feri
+- 👋 Hi, My Name is Feri
 -⚡
 -⚡Tidak ada yang tidak mungkin di dunia ini
 -⚡tetaplah berusaha dan pantang menyerah
