@@ -1,8 +1,17 @@
-- 👋 Hi, I’m CyberCarboon
--⚡Masih Belajar
+<h1 align="center">
+  Cybercarboon
+</h1>
+</div>
+<p align="center">
+  Code By <a href="https://github.com/CyberCarboon">Feri Pratama</a>
+</p>
+<p align="center">
+ 
+- 👋 Hi, My Name ia Feri
+-⚡
 -⚡Tidak ada yang tidak mungkin di dunia ini
 -⚡tetaplah berusaha dan pantang menyerah
--⚡ tetaplah bernafas dan bernafas 🗿
+-⚡tetaplah bernafas dan bernafas 🗿
 
 ## ngontol 😸
  <img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/coding.jpg" width="440" title="Menu" alt="Menu">
