@@ -6,7 +6,6 @@
   Code By <a href="https://github.com/CyberCarboon">Feri Pratama</a>
 </p>
 <p align="center">
- 
 - 👋 Hi, My Name is Feri
 -⚡
 -⚡Tidak ada yang tidak mungkin di dunia ini
