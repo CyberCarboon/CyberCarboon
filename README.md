@@ -21,7 +21,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CyberCarboon streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberCarboon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/CyberCarboon/github-readme-activity-graph"><img alt="CyberCarboon Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CyberCarboon&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## WEB FOR LEARNING
 <img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/QR.jpg" width="440" title="WEB" alt="LEARN MORE">
@@ -31,5 +30,5 @@
 
 ## Contacts Me
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon)
-
 [![](https://img.shields.io/badge/Whatsapp-CHAT-blue?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6288225349583?text=dari+github)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/smart.danie.3)
