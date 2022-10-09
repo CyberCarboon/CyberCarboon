@@ -7,10 +7,10 @@
 <p align="center">
   Code By <a href="https://github.com/CyberCarboon">Feri Pratama</a>
 </p>
-<H3> Me<H3>
-
-<p>• Hello,My Name Is Feri,I am just a child who thirsts for knowledge</p>
-<p>• I Learned Python Programming Language Step By Step<p>
+<li> 👨‍🎓 <i> STUDENT</i></li>
+<li> 🔰 <i> BEGINNER</i></li>
+<li> 🕌 <i> MUSLIM</i></li>
+<li> 💻 <i> LEARN PYTHON</i></li><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=CyberCarboon&show_icons=true&theme=bear](https://github-readme-stats.vercel.app/api?username=CyberCarboon&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" width = 400><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCarboon&layout=compact&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" width = 400>
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon" />
 <a href="https://api.daily.dev/get?r=CyberCarboon"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
