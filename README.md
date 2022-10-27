@@ -22,10 +22,7 @@
 </p>
 
 ## WEB FOR LEARNING
-<img src="https://github.com/CyberCarboon/CyberCarboon/blob/main/QR.jpg" width="440" title="WEB" alt="LEARN MORE">
-</p>
-
-**Scan Now !**
+**s.id/feristyle**
 
 ## Contacts Me
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/CyberCarboon)
